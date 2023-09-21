@@ -1,0 +1,18 @@
+.form-list-field label {
+    display: block;
+    color: #212121;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 4px;
+}
+
+.form-list-field select {
+    width: 100%;
+    border: none;
+    padding: 20px 15px;
+    outline-color: #6278F7;
+    box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.06);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+}
